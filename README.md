@@ -5,6 +5,8 @@
 - pkg install termux-api
 - pkg install neofetch
 - pkg install git
+- pkg install python
+- pkg install python2
 - gem install lolcat
 - clear
 - git clone 
