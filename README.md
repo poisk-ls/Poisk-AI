@@ -1,10 +1,12 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=Pro+-+AI)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=☣️+Pro+-+AI+command+☣️)
 - pkg update
+- pkg upgrade
 - pkg install termux-api
 - pkg install neofetch
 - pkg install git
 - gem install lolcat
+- clear
 - git clone 
 - https://github.com/poisk-ls/Pro-AI.git
 - ls
