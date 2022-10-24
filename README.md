@@ -22,5 +22,4 @@
 
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7D628&center=false&width=435&lines=...enjoy!!)](https://git.io/typing-svg)**
 
-![Alt text](https://user-images.githubusercontent.com/110269240/184834703-4c855b86-1de6-4058-b1fb-1e5b686915ec.gif)
-
+![Alt text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/120407.gif)
