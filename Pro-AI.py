@@ -5,7 +5,7 @@ import subprocess
 
 
 
-os.system('screenfetch')
+os.system('neofetch')
 print('\033[1m' + '\033[91m'+'     ///   customize by poisk-ls   ///')
 def wish():
   h=int(datetime.datetime.now().hour)
