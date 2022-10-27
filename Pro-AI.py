@@ -6,7 +6,7 @@ import subprocess
 
 
 os.system('neofetch')
-print('\033[1m' + '\033[91m'+'     ///   customize by poisk-ls   ///')
+print('\033[1m' + '\033[91m'+'     ✯✰✯ customize by poisk-ls ✯✰✯')
 def wish():
   h=int(datetime.datetime.now().hour)
   if h<12:
