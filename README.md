@@ -30,7 +30,7 @@ Heres the command Voice interfere
 | matrix             | active | matrix at movie             |
 | smoke              | active | fire                        |
 | battery            | active | show bartery status         |
-| vibrate            | active | don't silent your phone     |
+| vibrate            | active | Don't put your phone on silent to work properly.  |
 | sleep              | active | sleep 5 secs                |
 | close              | active | quit                        |
 | how are you        | active |                             |
