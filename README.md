@@ -26,7 +26,7 @@ Here's your data converted into a Markdown table:
 | Usage              | Status | Info                        |
 |--------------------|--------|-----------------------------|
 | hello              | active | welcome message             |
-| sl                 | active | show train                  |
+| train                 | active | show running train                  |
 | matrix             | active | matrix at movie             |
 | smoke              | active | fire                        |
 | battery            | active | show bartery status         |
