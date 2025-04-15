@@ -14,7 +14,7 @@ echo -e "${GREEN}Updating package list...${NC}"
 pkg update -y && pkg upgrade -y
 
 # Array of packages
-packages=("sl" "screenfetch" "neofetch" "cmatrix" "neofetch" "libcaca" "termux-api" "cowsay")
+packages=("sl" "python" "python2" "screenfetch" "neofetch" "cmatrix" "neofetch" "libcaca" "termux-api" "cowsay")
 
 # Install each package
 for pkg in "${packages[@]}"
