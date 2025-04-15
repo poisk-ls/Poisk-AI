@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=☣️+Pro+-+AI+command+☣️)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=☣️+Poisk+-+AI+command+☣️)
 - pkg update
 - pkg upgrade
 - pkg install termux-api
@@ -19,6 +19,35 @@
 - bash install.sh
 - ls
 - python poisk.py
+
+#
+Here's your data converted into a Markdown table:
+
+| Usage              | Status | Info                        |
+|--------------------|--------|-----------------------------|
+| hello              | active | welcome message             |
+| sl                 | active | show train                  |
+| matrix             | active | matrix at movie             |
+| smoke              | active | fire                        |
+| battery            | active | show bartery status         |
+| vibrate            | active | don't silent your phone     |
+| sleep              | active | sleep 5 secs                |
+| close              | active | quit                        |
+| how are you        | active |                             |
+| torch on           | active | flashlight on               |
+| torch off          | active | flashlight off              |
+| cowsay             | active | logo                        |
+| system             | active | system android info         |
+| demo               | active | dance showing               |
+| are you busy       | active | ?                           |
+| what are you doing | active | ?                           |
+| name               | active | introduced                  |
+| contact            | active | showing your contact        |
+| calendar           | active | show present calendar date  |
+| who are you        | active | introdocing                 |
+
+Let me know if you want this exported or formatted differently.
+
 
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7D628&center=false&width=435&lines=...enjoy!!)](https://git.io/typing-svg)**
 #### ____________________________________
