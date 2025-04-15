@@ -1,24 +1,46 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=☣️+Poisk+-+AI+command+☣️)
-- pkg update
-- pkg upgrade
-- pkg install termux-api
-- pkg install neofetch
-- pkg install git
-- pkg install python
-- pkg install python2
-- gem install lolcat
-- clear
-- git clone 
-- https://github.com/poisk-ls/Pro-AI.git
-- ls
-- cd Pro-AI
-- ls
-- pip install -r requirements.txt
-- ls
-- bash install.sh
-- ls
-- python poisk.py
+
+Update the package list  
+`pkg update`
+
+Upgrade all installed packages  
+`pkg upgrade`
+
+Install Git (version control tool)  
+`pkg install git`
+
+Install the Ruby programming language  
+`pkg install ruby`
+
+Clear the terminal screen  
+`clear`
+
+Clone a repository from GitHub  
+`git clone https://github.com/poisk-ls/Pro-AI.git`
+
+List files in the current directory  
+`ls`
+
+Select directory
+`cd Pro-AI`
+
+`ls`
+
+Install Python dependencies from the requirements file  
+`pip install -r requirements.txt`
+
+Check available files after installing dependencies  
+`ls`
+
+Run the install script  
+`bash install.sh`
+
+List files after installation  
+`ls`
+
+Execute the Python script to start the project  
+`python poisk.py`
 
 #
 Heres the command Voice interfere
