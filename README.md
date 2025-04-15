@@ -46,8 +46,6 @@ Here's your data converted into a Markdown table:
 | calendar           | active | show present calendar date  |
 | who are you        | active | introdocing                 |
 
-Let me know if you want this exported or formatted differently.
-
 
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7D628&center=false&width=435&lines=...enjoy!!)](https://git.io/typing-svg)**
 #### ____________________________________
