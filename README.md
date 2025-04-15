@@ -21,7 +21,7 @@
 - python poisk.py
 
 #
-Here's your data converted into a Markdown table:
+Heres the command Voice interfere
 
 | Usage              | Status | Info                        |
 |--------------------|--------|-----------------------------|
